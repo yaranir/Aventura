@@ -18,6 +18,6 @@ avanca.forEach(button => {
                     console, console.error(`Elemento com ID "${proximoPasso}" não encontrado.`);
                 }
 
-        }}
+         } }}
     )
         });
